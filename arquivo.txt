@@ -1,0 +1,5 @@
+README.md
+app
+arquivo.txt
+docker-compose.yml
+info.tx
